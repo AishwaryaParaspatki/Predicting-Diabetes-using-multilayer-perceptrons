@@ -10,7 +10,7 @@ sklearn
 
 I have used the Diabetes dataset hosted by Kaggle. (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
-The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.<br>
 ![Dataset](/images/Dataset_head.png)
 ### Notebooks:
 Visualization.ipynb: This notebook consists of a study of the dataset using matplotlib and seabron libraries. <br>
