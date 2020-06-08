@@ -25,7 +25,7 @@ Sequential model with 3 layers: 1st layer - 32 hidden neurons with relu activati
 
 ### Evaluation metrics:
 1. Accuracy:<br>
-![Accuracy](/images/Accuracy.png)
+![Accuracy](/images/Accuracy.PNG)
 
 2. Confusion Matrix:<br>
 ![Confusion Matrix](/images/Confusion_Matrix.png)
