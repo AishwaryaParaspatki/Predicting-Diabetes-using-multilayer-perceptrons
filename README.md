@@ -28,7 +28,7 @@ Sequential model with 3 layers: 1st layer - 32 hidden neurons with relu activati
 ![Accuracy](/images/Accuracy.png)
 
 2. Confusion Matrix:<br>
-1[Confusion Matrix](/images/Confusion_Matrix.png)
+![Confusion Matrix](/images/Confusion_Matrix.png)
 
 3. ROC Curve:<br>
 ![ROC Curve](/images/ROC_curve.png)
